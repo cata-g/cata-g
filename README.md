@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @imN0oB
-- 👀 I’m interested in Web & Game Development
-- 🌱 I’m currently learning Mobile Game Development
-
-<!---
-imN0oB/imN0oB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m Catalin
+🚀Web Development | 🎮Game Development | 📱Mobile App Development
+🧠 Always Learning: Machine Learning & Data Science
+💻 Let's build something amazing together on GitHub! 🤖
